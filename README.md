@@ -32,7 +32,8 @@ The PWM pins are toggled by functions designed to control LEDs. The Nested Vecto
 as well as hardware interrupts from button touches, is what gives the system its responsiveness.
 
 # State Machine Diagram
-[State machnine.drawio.pdf](https://github.com/user-attachments/files/20179349/State.machnine.drawio.pdf)
+![State machnine drawio](https://github.com/user-attachments/assets/cc3678ad-1eb9-4e90-ab5e-8334d42fa6ac)
+
 
 # Block Diagram
 ![Block diagram](https://github.com/user-attachments/assets/98291f65-8d54-4de0-86a0-490a2112502c)
